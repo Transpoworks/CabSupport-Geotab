@@ -1,2 +1,2 @@
-# CabSupport Releases
-Repository for storing Transpoworks CabSupport tablet app releases
+# CabSupport-Geotab Releases
+Repository for storing Transpoworks CabSupport-Geotab tablet app releases
